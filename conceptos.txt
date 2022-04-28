@@ -1,0 +1,3 @@
+¿Que es GIT?
+
+Es un sistema de control de versiones, un sistema de control de versions es un sistema, un programa que controla o administra las distintas versiones de un programa
